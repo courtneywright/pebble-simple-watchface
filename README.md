@@ -1,6 +1,8 @@
 # pebble-simple-watchface
 Simple pebble watchface 
 
+![screenshot of watchface](https://github.com/courtneywright/pebble-simple-watchface/blob/master/screenshot.png?raw=true)
+
 - Digital time
 - Date
 - Battery indicator bar

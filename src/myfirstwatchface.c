@@ -101,7 +101,7 @@ static void main_window_load(Window *window) {
   // create bluepoop TextLayer
   s_bluepoop = text_layer_create(GRect(0, 120, 144, 30));
   text_layer_set_background_color(s_bluepoop, GColorClear);
-  text_layer_set_text_color(s_bluepoop, GColorBlack);
+  text_layer_set_text_color(s_bluepoop, GColorBlue);
   text_layer_set_font(s_bluepoop, fonts_get_system_font(FONT_KEY_GOTHIC_14));
   text_layer_set_text_alignment(s_bluepoop, GTextAlignmentCenter);
   text_layer_set_text(s_bluepoop, "\U0001F4A9");
